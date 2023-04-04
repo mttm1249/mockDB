@@ -3,92 +3,91 @@
         "productName": "Ветчина и грибы",
         "productDescription": "Ветчина, Грибы, Сыр Моцарелла, Томатный соус",
         "productPrice": 429,
-        "productType": "pizza"
+        "productType": "pizza",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/pizza/bbq.png"
     },
     {
         "productName": "Пепперони",
         "productDescription": "Пепперони, Сыр Моцарелла, Томатный соус",
         "productPrice": 399,
-        "productType": "pizza"
+        "productType": "pizza",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/pizza/pepperony.png"
     },
     {
         "productName": "Маргарита",
         "productDescription": "Сыр Моцарелла, Томатный соус",
         "productPrice": 289,
-        "productType": "pizza"
+        "productType": "pizza",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/pizza/margarita.png"
     },
     {
         "productName": "BBQ",
         "productDescription": "Бекон, Ветчина, Курица, Лук, Соус BBQ, Сыр Моцарелла, Томатный соус",
         "productPrice": 569,
-        "productType": "pizza"
+        "productType": "pizza",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/pizza/bbq.png"
     },
     {
         "productName": "Чай",
         "productDescription": "Зелёный",
         "productPrice": 100,
-        "productType": "drink"
+        "productType": "drink",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/drinks/chai.jpeg"
     },
     {
         "productName": "Кофе",
         "productDescription": "Чёрный",
         "productPrice": 100,
-        "productType": "drink"
+        "productType": "drink",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/drinks/cofe.jpeg"
     },
     {
         "productName": "Лимонад",
         "productDescription": "Лимонад без сахара",
         "productPrice": 150,
-        "productType": "drink"
+        "productType": "drink",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/drinks/limonade.jpeg"
     },
     {
         "productName": "Молочный коктейль",
         "productDescription": "Малина",
         "productPrice": 199,
-        "productType": "drink"
+        "productType": "drink",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/drinks/molochni_kokteil.jpeg"
     },
     {
         "productName": "Ламингтон",
         "productDescription": "Австралийское пирожное",
         "productPrice": 349,
-        "productType": "dessert"
+        "productType": "dessert",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/desserts/lamington.jpeg"
     },
     {
         "productName": "Нама",
         "productDescription": "Японский десерт",
         "productPrice": 370,
-        "productType": "dessert"
+        "productType": "dessert",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/desserts/nama.jpeg"
     },
     {
         "productName": "Профитроли",
         "productDescription": "Профитроли с кремом",
         "productPrice": 350,
-        "productType": "dessert"
+        "productType": "dessert",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/desserts/profitroly.jpeg"
     },
     {
         "productName": "Тирамису",
         "productDescription": "Итальянский многослойный десерт, в состав которого входят сыр маскарпоне, кофе, куриные яйца, сахар и печенье савоярди.",
         "productPrice": 420,
-        "productType": "dessert"
+        "productType": "dessert",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/desserts/tiramisu.jpeg"
     },
     {
         "productName": "Комбо обед",
         "productDescription": "Я бы не советовал",
         "productPrice": 666,
-        "productType": "combo"
+        "productType": "combo",
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/commbo/kombo_eda.jpeg"
     }
 ]
-

@@ -84,10 +84,39 @@
         "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/desserts/tiramisu.jpeg"
     },
     {
-        "productName": "Комбо обед",
-        "productDescription": "Я бы не советовал",
-        "productPrice": 666,
+        "productName": "Комбо-обед номер 1",
+        "productDescription": "Борщ, картошечка, салат",
+        "productPrice": 399,
         "productType": "combo",
-        "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/commbo/kombo_eda.jpeg"
+        "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/commbo/combo_obed1.jpeg"
+    },
+    {
+        "productName": "Комбо-обед номер 2",
+        "productDescription": "Вок, сырный крем-суп, салат",
+        "productPrice": 399,
+        "productType": "combo",
+        "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/commbo/combo_obed2.jpeg"
+    },
+    {
+        "productName": "Комбо-обед номер 3",
+        "productDescription": "Куриные стрипсы, суп, напиток",
+        "productPrice": 399,
+        "productType": "combo",
+        "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/commbo/combo_obed3.png"
+    },
+    {
+        "productName": "Комбо-обед номер 4",
+        "productDescription": "Бургер, напиток, картошка фри",
+        "productPrice": 249,
+        "productType": "combo",
+        "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/commbo/combo_obed4.jpeg"
+    },
+    {
+        "productType": "banner",
+        "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/banners/banner1.png"
+    },
+    {
+        "productType": "banner",
+        "imageString": "https://raw.githubusercontent.com/mttm1249/mockDB/main/banners/banner2.png"
     }
 ]
